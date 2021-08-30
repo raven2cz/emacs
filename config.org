@@ -3,12 +3,18 @@
 #+DESCRIPTION: raven2cz's personal Doom Emacs config.
 #+STARTUP: showeverything
 
+#+BEGIN_EXAMPLE
 ██████╗  █████╗ ██╗   ██╗███████╗███╗   ██╗  Antonin Fischer (raven2cz)
 ██╔══██╗██╔══██╗██║   ██║██╔════╝████╗  ██║  https://fishlive.org/
-██████╔╝███████║██║   ██║█████╗  ██╔██╗ ██║  https://github.com/raven2cz
-██╔══██╗██╔══██║╚██╗ ██╔╝██╔══╝  ██║╚██╗██║
+██████╔╝███████║██║   ██║█████╗  ██╔██╗ ██║  https://arch-linux.cz/
+██╔══██╗██╔══██║╚██╗ ██╔╝██╔══╝  ██║╚██╗██║  https://github.com/raven2cz
 ██║  ██║██║  ██║ ╚████╔╝ ███████╗██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═══
+╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═══╝
+#+END_EXAMPLE
+
+#+ATTR_HTML: :src images/doom-emacs-dashboard.png
+#+ATTR_ORG: :width 800
+[[images/doom-emacs-dashboard.png]]
 
 * TABLE OF CONTENTS :toc:
 - [[#about-this-config][ABOUT THIS CONFIG]]
