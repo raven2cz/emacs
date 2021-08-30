@@ -14,7 +14,7 @@
 
 #+ATTR_HTML: :src images/doom-emacs-dashboard.png
 #+ATTR_ORG: :width 800
-[[images/doom-emacs-dashboard.png]]
+[[~/git/github/emacs/images/doom-emacs-dashboard.png]]
 
 * TABLE OF CONTENTS :toc:
 - [[#about-this-config][ABOUT THIS CONFIG]]
@@ -90,6 +90,10 @@ To use tabs in Doom Emacs, be sure to uncomment "tabs" in Doom's init.el.  Displ
 
 * DASHBOARD
 Emacs Dashboard is an extensible startup screen showing you recent files, bookmarks, agenda items and an Emacs banner.
+
+#+ATTR_HTML: :src images/doom-emacs-dashboard-2.png
+#+ATTR_ORG: :width 800
+[[~/git/github/emacs/images/doom-emacs-dashboard-2.png]]
 
 ** Configuring Dashboard
 #+begin_src emacs-lisp
@@ -353,6 +357,13 @@ Keybindings to open files that I work with all the time using the find-file comm
 #+END_SRC
 
 * ORG MODE
+A GNU Emacs major mode for convenient plain text markup — and much more.
+
+Org mode is for keeping notes, maintaining to-do lists, planning projects, authoring documents, computational notebooks, literate programming and more — in a fast and effective plain text system.
+
+#+ATTR_HTML: :src images/org-mode-1.jpg
+#+ATTR_ORG: :width 800
+[[~/git/github/emacs/images/org-mode-1.jpg]]
 
 #+BEGIN_SRC emacs-lisp
 ;; If you use `org' and don't want your org files in the default location below,
@@ -405,8 +416,8 @@ Org Mode is known to be a great tool not just for writing and personal notes but
 
 Org Roam is an extension to Org Mode which solves a couple of the biggest problems that I've personally had when using Org for personal notes:
 
-    How many Org files do I need?
-    How do I decide where to put things in my Org files?
++ How many Org files do I need?
++ How do I decide where to put things in my Org files?
 
 Org Roam solves these problems by making it easy to create topic-focused Org Files and link them together so that you can treat the information as nodes in a network rather than as hierarchical documents. You can think of it like a personal wiki!
 
