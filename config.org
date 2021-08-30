@@ -14,7 +14,7 @@
 
 #+ATTR_HTML: :src images/doom-emacs-dashboard.png
 #+ATTR_ORG: :width 800
-[[~/git/github/emacs/images/doom-emacs-dashboard.png]]
+[[images/doom-emacs-dashboard.png]]
 
 * TABLE OF CONTENTS :toc:
 - [[#about-this-config][ABOUT THIS CONFIG]]
@@ -93,7 +93,7 @@ Emacs Dashboard is an extensible startup screen showing you recent files, bookma
 
 #+ATTR_HTML: :src images/doom-emacs-dashboard-2.png
 #+ATTR_ORG: :width 800
-[[~/git/github/emacs/images/doom-emacs-dashboard-2.png]]
+[[images/doom-emacs-dashboard-2.png]]
 
 ** Configuring Dashboard
 #+begin_src emacs-lisp
@@ -363,7 +363,7 @@ Org mode is for keeping notes, maintaining to-do lists, planning projects, autho
 
 #+ATTR_HTML: :src images/org-mode-1.jpg
 #+ATTR_ORG: :width 800
-[[~/git/github/emacs/images/org-mode-1.jpg]]
+[[images/org-mode-1.jpg]]
 
 #+BEGIN_SRC emacs-lisp
 ;; If you use `org' and don't want your org files in the default location below,
